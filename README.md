@@ -1,4 +1,4 @@
-# CCparser: A parser with Constraints
+# NLPApps
 
 This is a repository for NLP applications with examples
 

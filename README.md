@@ -39,6 +39,12 @@ Get to your console or command window and type belows:
   ```
    conda install pytorch torchvision -c pytorch
   ```
+  
+#### Install Visdom
+ * Windows, Linux
+  ```
+   pip install visdom
+  ```
 
 #### Download codes
  * Download
@@ -52,6 +58,12 @@ Get to your console or command window and type belows:
 #### Run Jupyter notebook
   ```
    jupyter notebook
+  ```
+  
+#### Run Visdom for visualizing graphs
+  ```
+   conda activate NLPApps
+   python -m visdom.server
   ```
     
 #### How to convert .ipynb to .py

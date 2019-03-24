@@ -71,7 +71,13 @@ Get to your console or command window and type belows:
    jupyter nbconvert --to=python [file_name.ipynb]
   ```
 
+## dataset
+https://docs.google.com/spreadsheets/d/121lCucS8fYgmrOiT14-8_OxDa9bUfaPQRd9e8XEFJqk/edit?usp=sharing
+
+## Survey
+https://goo.gl/Mzp9ur
 
 ## Contact
 
 If you have any questions or suggestions, please send an email jujbob@gmail.com
+

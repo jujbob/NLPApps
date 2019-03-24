@@ -1,6 +1,8 @@
 # NLPApps
 
-This is a repository for NLP applications with examples
+This is a repository for NLP applications with examples.
+4장 강의 슬라이드는 PyTorch로 시작하는 딥러닝 입문 CAMP (2017.7~2017.12) 강의자료를 참고하세요!
+ - [Linear Regression and Neural Network](https://github.com/jujbob/PyTorch-FastCampus/blob/master/01_DL%26Pytorch/%EB%94%A5%EB%9F%AC%EB%8B%9D%26%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98.pdf)
 
 
 ## Dependencies
@@ -70,12 +72,6 @@ Get to your console or command window and type belows:
   ```
    jupyter nbconvert --to=python [file_name.ipynb]
   ```
-
-## dataset
-https://docs.google.com/spreadsheets/d/121lCucS8fYgmrOiT14-8_OxDa9bUfaPQRd9e8XEFJqk/edit?usp=sharing
-
-## Survey
-https://goo.gl/Mzp9ur
 
 ## Contact
 
